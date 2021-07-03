@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=heroku_django
+POSTGRES_USER=eIobJpAcdvvqXRuLKrncOpMmqCXFnpBH
+POSTGRES_PASSWORD=3VSuY8gbpYqXb3Ia19qeRBH7yNBPpDwW7AwT9DpLznk8Zvgn12ItvoKnqmYcCCK1
