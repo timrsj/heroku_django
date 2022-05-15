@@ -5,7 +5,7 @@ DJANGO_SETTINGS_MODULE=config.settings.production
 DJANGO_SECRET_KEY=x1Pg0WfzmkZcHMxWMlRhsxGq3ym2Q5Ilj3U7V0mpqvIgno7mM8OWSmc7id7vZEnM
 DJANGO_ADMIN_URL=2FVKFeQEJGvXf1F6jMs7fKGd9BeeEBmj/
 DJANGO_ALLOWED_HOSTS=.johnson-inc.org
-
+USE_DOCKER=yes
 # Security
 # ------------------------------------------------------------------------------
 # TIP: better off using DNS, however, redirect is OK too
